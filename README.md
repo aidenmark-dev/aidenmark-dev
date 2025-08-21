@@ -1,6 +1,6 @@
 # Hi there, I’m Aiden Mark  👋
 
-### Full-Stack Engineer with 5+ Years of Experience
+### Full-Stack Engineer with 7+ Years of Experience
 
 I’m a proactive and versatile Full-Stack Engineer with over 5 years of hands-on experience building web and mobile solutions. I thrive on crafting scalable, user-centric applications and love transforming ideas into polished digital experiences.
 
